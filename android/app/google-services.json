@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425140709800",
+    "firebase_url": "https://checklist-gmt-default-rtdb.firebaseio.com",
+    "project_id": "checklist-gmt",
+    "storage_bucket": "checklist-gmt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425140709800:android:a4eaeee9b2fb806eaf159d",
+        "android_client_info": {
+          "package_name": "com.example.gmtchecklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425140709800-63ml4chb40oihd5g2nc51aes5cbcj8o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gmtchecklist",
+            "certificate_hash": "daeff9c37f2425d02a8bb6b3d7437d4aff954e13"
+          }
+        },
+        {
+          "client_id": "425140709800-b6lgbdgojalmg09se8vachc07nrhhmub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0ZBxbdq_RA6HFDG99akYDRh5mOik2ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425140709800-b6lgbdgojalmg09se8vachc07nrhhmub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
